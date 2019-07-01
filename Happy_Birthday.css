@@ -52,6 +52,7 @@ section
 }
 img#banner
 {
+	display:none;
 	position:absolute;
 	bottom:900px;
 	width:60%;
@@ -239,5 +240,5 @@ img#banner_right
 	color:#fff;
 	text-align:center;
 	font-size:25px;
-	top:50px;
+	top:-700px;
 }
